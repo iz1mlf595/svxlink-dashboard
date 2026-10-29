@@ -1,4 +1,4 @@
-# 📻 Dashboard DarkMode per XLX Reflector
+# 📻 Dashboard per SVXLink versione Bookworm ver. 1.9.xx
 
 Anteprima della dashboard:
 
